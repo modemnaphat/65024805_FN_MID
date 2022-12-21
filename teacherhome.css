@@ -1,0 +1,134 @@
+#rec{
+    position: absolute;
+width: 1440px;
+height: 87px;
+left: 0px;
+top: 0px;
+
+background: #7E4D9F;
+}
+#img{
+    position: absolute;
+width: 47px;
+height: 63px;
+left: 21px;
+top: 12px;
+}
+#nav1{
+    position: absolute;
+width: 103px;
+height: 33px;
+left: 107px;
+top: 27px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 35px;
+
+color: rgba(255, 255, 255, 0.65);
+}
+#nav2{
+    position: absolute;
+width: 121px;
+height: 33px;
+left: 249px;
+top: 12px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 35px;
+
+color: rgba(255, 255, 255, 0.65);
+}
+#nav3{
+    position: absolute;
+width: 175px;
+height: 33px;
+left: 421px;
+top: 16px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 35px;
+
+color: #FFFFFF;
+}
+#img2{
+    position: absolute;
+width: 746px;
+height: 730px;
+left: 538px;
+top: 237px;
+}
+#label{
+    position: absolute;
+width: 395px;
+height: 74px;
+left: 68px;
+top: 265px;
+
+background: #CAC7C7;
+}
+#cars{
+    position: absolute;
+width: 83px;
+height: 74px;
+left: 312px;
+top: 0px;
+
+background: #1F89EB;
+}
+#block1{
+    position: absolute;
+width: 395px;
+height: 74px;
+left: 68px;
+top: 265px;
+
+background: #CAC7C7;
+}
+#textblock1{
+    position: absolute;
+width: 144px;
+height: 35px;
+left: 84px;
+top: 19px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 29px;
+line-height: 35px;
+
+color: #FFFFFF;
+}
+#block2{
+    position: absolute;
+width: 395px;
+height: 74px;
+left: 68px;
+top: 375px;
+
+background: #CAC7C7;
+}
+#textblock2{
+    position: absolute;
+width: 71px;
+height: 35px;
+left: 127px;
+top: 19px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 35px;
+
+color: #FFFFFF;
+}

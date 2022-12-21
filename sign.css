@@ -1,0 +1,126 @@
+#block{
+    position: absolute;
+    margin-left: 240px;
+    margin-top: 162px;
+    width: 491px;
+    height: 700px;
+    border-radius: 5px 0px 0px 5px;
+}
+#head{
+    position: absolute;
+    width: 140px;
+    height: 49px;
+    margin-left: 903px;
+    margin-top: 240px;
+    margin-right: 398px;
+    font-family: 'SeoulNamsan CBL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 47px;
+    line-height: 50px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+#mail{
+    position: absolute;
+    width: 162px;
+    height: 15px;
+    left: 825px;
+    top: 384px;
+    font-family: 'SeoulNamsan CBL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 15px;
+    color: #B6B3B3;
+}
+#pass{
+    position: absolute;
+    width: 162px;
+    height: 14px;
+    left: 825px;
+    top: 428px;
+
+    font-family: 'SeoulNamsan CBL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 15px;
+    color: #B6B3B3;
+}
+#rectan{
+    position: absolute;
+    left: 825px;
+    right: 320px;
+    top: 504px;
+    bottom: 488px;
+    width: 296px;
+    height: 32px;
+
+    background: #807E7E;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+}
+#login{
+    position: absolute;
+    width: 52px;
+    height: 17px;
+    left: 948px;
+    top: 512px;
+
+    font-family: 'SeoulNamsan CBL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 15px;
+    color: #FFFFFF;
+}
+#google{
+    position: absolute;
+    width: 107px;
+    height: 21px;
+    left: 920px;
+    top: 577px;
+
+    font-family: 'SeoulNamsan CBL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: #B6B3B3;
+}
+#rectan2{
+    position: absolute;
+    left: 825px;
+    right: 320px;
+    top: 631px;
+    bottom: 350px;
+    width: 296px;
+    height: 32px;
+}
+#signwgoo{
+    position: absolute;
+    width: 124px;
+    height: 18px;
+    left: 938px;
+    top: 644px;
+    bottom: 362px;
+    right: 379px;
+
+    font-family: 'SeoulNamsan CBL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 15px;
+
+    color: #1F89EB; 
+}
+#img{
+    position: absolute;
+    width: 33px;
+    height: 32px;
+    left: 890px;
+    top: 636px;
+    bottom: 356px;
+    right: 518px;
+}
